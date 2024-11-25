@@ -1,0 +1,23 @@
+Class 31 @Loop -next
+====================
+1. for loop
+2. for each loop
+3. while loop
+4. do while loop
+===================
+
+let marks = [56, 61, 90, 30, 58, 99];
+
+for(let i=0; i<=5; i++){
+    console.log(marks[i]);
+}
+====================
+
+While Loop
+
+let i=0; 
+while(i<=5){
+    //statement........
+
+    increment/decrement
+}
